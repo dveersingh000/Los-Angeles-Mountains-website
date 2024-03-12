@@ -53,11 +53,7 @@ This project is [MIT](./MIT.md) licensed.
 
 ## Contact
 
-|Email|LinkedIn|
-|-|-|
-|dveersingh000@gmail.com|https://www.linkedin.com/in/dharamveer-singh-560149173/|
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharamveer-singh-560149173/)
+|[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dveersingh000@gmail.com)|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharamveer-singh-560149173/)
+|
 
-|Website|
-|-|
-|https://dveersingh000.github.io/My-Portfolio/|
+|[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dveersingh000)|
