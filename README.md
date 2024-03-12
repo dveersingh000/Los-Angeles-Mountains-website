@@ -56,6 +56,7 @@ This project is [MIT](./MIT.md) licensed.
 |Email|LinkedIn|
 |-|-|
 |dveersingh000@gmail.com|https://www.linkedin.com/in/dharamveer-singh-560149173/|
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharamveer-singh-560149173/)
 
 |Website|
 |-|
